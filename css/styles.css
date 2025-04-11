@@ -1,0 +1,112 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.logo .accent {
+    color: #2E2F42;
+}
+.navigation {
+    color: #2E2F42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+.navigation:hover {
+    color: #404BBF;
+}
+.navigation:focus {
+    color: #404BBF;
+}
+.communication {
+    font-style: normal;
+}
+.contacts {
+    color: #434455;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.contacts:hover {
+    color: #404BBF;
+}
+.contacts:focus {
+    color: #404BBF;
+}
+.section-title {
+    background-color: #2E2F42;
+}
+.title { font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    color: #FFFFFF;
+    text-align: center;
+}
+.title-button { 
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500; 
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    text-align: center;
+    cursor: pointer;
+}
+.title-button:hover {
+    background-color: #404BBF;
+}
+.title-button:focus {
+    background-color: #404BBF;
+}
+.subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+.headline {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team {
+    background-color: #F4F4FD;
+}
+.item{
+    background-color: #FFFFFF;
+}
+.ftr{
+    background-color: #2E2F42;
+}
+.ftr .logo .accent
+{
+    color: #f4f4fd;
+}
+.ftr .text
+{
+    color: #F4F4FD;
+}
